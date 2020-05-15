@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gCaptcha/gCaptcha.dart';
+import 'package:g_captcha/g_captcha.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 // TODO

@@ -1,4 +1,4 @@
-group 'com.yuanchongyu.gCaptcha'
+group 'com.yuanchongyu.g_captcha'
 version '1.0'
 
 buildscript {

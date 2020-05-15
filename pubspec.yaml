@@ -1,4 +1,4 @@
-name: gCaptcha
+name: g_captcha
 description: A flutter plugin for reCAPTCHA v2 - android
 version: 1.0.0
 homepage: https://github.com/nnnggel/gCaptcha
@@ -27,7 +27,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.yuanchongyu.gCaptcha
+        package: com.yuanchongyu.g_captcha
         pluginClass: GCaptchaPlugin
       ios:
         pluginClass: GCaptchaPlugin

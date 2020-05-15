@@ -1,9 +1,9 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:gCaptcha/gCaptcha.dart';
+import 'package:g_captcha/g_captcha.dart';
 
 void main() {
-  const MethodChannel channel = MethodChannel('gCaptcha');
+  const MethodChannel channel = MethodChannel('com.yuanchongyu.g_captcha');
 
   TestWidgetsFlutterBinding.ensureInitialized();
 

@@ -1,4 +1,4 @@
-package com.yuanchongyu.gCaptcha;
+package com.yuanchongyu.g_captcha;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -30,9 +30,9 @@ import io.flutter.plugin.common.PluginRegistry;
  */
 public class GCaptchaPlugin implements PluginRegistry.ActivityResultListener, MethodCallHandler {
 
-    private static final String LOG_TAG = "gcaptcha";
+    private static final String LOG_TAG = "g_captcha";
 
-    private static final String CHANNEL = "com.yuanchongyu.gcaptcha";
+    private static final String CHANNEL = "com.yuanchongyu.g_captcha";
 
     private Activity activity;
 

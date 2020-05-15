@@ -86,7 +86,7 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "4.0.1"
-  gCaptcha:
+  g_captcha:
     dependency: "direct main"
     description:
       path: ".."

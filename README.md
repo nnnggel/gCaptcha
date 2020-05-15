@@ -1,4 +1,4 @@
-## Flutter gCaptcha 
+## Flutter g_captcha 
 A flutter plugin for [reCAPTCHA](https://developers.google.com/recaptcha/intro) [v2 - android](https://developer.android.com/training/safetynet/recaptcha.html). The FREE anti-abuse service.
 
 ## What is reCAPTCHA?
@@ -16,13 +16,13 @@ Config 'android package name' to reCaptcha's admin console
 
 ### 1. Add dependency to [pubspec.yaml](https://dart.dev/tools/pub/dependencies)
 > dependencies:  
-> ....gCaptcha: ^1.0.0
+> ....g_captcha: ^1.0.0
 
 Don't forget this
 > flutter pub get
     
 ### 2. Import in dart file
-> import 'package:gCaptcha/gCaptcha.dart';
+> import 'package:g_captcha/g_captcha.dart';
 
 ### 3. Config CAPTCHA_SITE_KEY and Call out 
 > const String CAPTCHA_SITE_KEY = "CAPTCHA_SITE_KEY_HERE";  

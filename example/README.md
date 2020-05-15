@@ -1,6 +1,6 @@
-# gCaptcha_example
+# g_captcha_example
 
-Demonstrates how to use the gCaptcha plugin.
+Demonstrates how to use the g_captcha plugin.
 
 ## Getting Started
 
