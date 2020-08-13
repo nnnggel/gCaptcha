@@ -10,7 +10,7 @@ Please check [docs](https://developers.google.com/recaptcha/intro) for further d
 To use reCAPTCHA, you need to [sign up for an API key pair](https://www.google.com/recaptcha/admin) for your site. The key pair consists of a site key and secret. The site key is used to display the widget on your site. The secret authorizes communication between your application backend and the reCAPTCHA server to verify the user's response. The secret needs to be kept safe for security purposes.
 
 Config 'android package name' to reCaptcha's admin console
-> You need to add 'android package name' to reCaptcha's [admin console](https://google.com/recaptcha/admin), or you will always get error: RECAPTCHA_INVALID_PACKAGE_NAME
+> You need to add 'android package name' to reCaptcha's [admin console](https://www.google.com/recaptcha/admin/create), or you will always get error: RECAPTCHA_INVALID_PACKAGE_NAME
 
 ## Usage
 
